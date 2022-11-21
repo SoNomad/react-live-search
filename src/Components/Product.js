@@ -1,9 +1,9 @@
-import nike from "../shoes.png";
-import abibas from "../shoes1.png";
-import fuma from "../shoes2.png";
-import balenciaga from "../shoes3.png";
-import snikers from "../shoes4.png";
-import twiks from "../shoes5.png";
+import nike from "../Images/shoes.png";
+import abibas from "../Images/shoes1.png";
+import fuma from "../Images/shoes2.png";
+import balenciaga from "../Images/shoes3.png";
+import snikers from "../Images/shoes4.png";
+import twiks from "../Images/shoes5.png";
 
 const Product = [
   {
